@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Specific Directories
+out/
+build/
+vcpkg_installed/
+
+.vs/
+.vscode/
